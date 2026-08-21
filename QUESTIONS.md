@@ -8,6 +8,7 @@ included in your commit, or I won't see it to grade it!*
 [Bridge Keeper](https://www.youtube.com/watch?v=VvSO5KEnaVE): Stop! Who would submit their assignment must answer me these questions three, ere the grade they see!
 
 ### Question 1
+What is GitHub and how is it different from Git?
 
 Github is a web-based hosting service that stores stuff from Git. Git is an open-source code change tracker.
 
