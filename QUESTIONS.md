@@ -9,9 +9,7 @@ included in your commit, or I won't see it to grade it!*
 
 ### Question 1
 
-What... is GitHub, and how is it different from Git?
-
-[Your answer here - 2-3 sentences]
+Github is a web-based hosting service that stores stuff from Git. Git is an open-source code change tracker.
 
 ### Question 2
 
@@ -22,9 +20,9 @@ What... is the secret word found in the InClass-Examples repository?
 ### Question 3
 
 What... is the airspeed velocity of an unladen swallow?
-<details>
-<summary>Hint</summary>
+
+Well... is it European or African?
 
 The Bridge Keeper has the answer.
-</details>
-[Your answer here]
+
+20-40MPH
