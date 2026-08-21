@@ -1,18 +1,18 @@
 # About Me
 
-**Name:** Zachariah Matlock
-**Major:** Data Analytics
-**Year:** Sophomore/Junior
+**Name:** Tyler Alexander
+**Major:** Cybersecurity
+**Year:** Sophomore
 
 ## A Little About Me
 
-Hello, my name is Zach, i graduated from Greenbrier High School and am currently pursuing a career in data analytics. 
-I am really into Batman and Dragon Ball. I play Magic the Gathering on occasion and work at Publix as a Cashier. 
+I enjoy anime, and video games. 
+I love boxing and Canelo.
 
 ## Two Truths and a Lie
 
-1. I originally wanted to do graphic design
-2. I spend way too much money on dumb hobbies
-3. I am secretly a millionare
+1. I hate computers.
+2. I have bad spending habits.
+3. I love Bleach, the anime.
 
 *You can mention my name and fun facts in class: Yes*
