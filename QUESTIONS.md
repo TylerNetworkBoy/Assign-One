@@ -15,7 +15,7 @@ Github is a web-based hosting service that stores stuff from Git. Git is an open
 
 What... is the secret word found in the InClass-Examples repository?
 
-[Your answer here]
+Sesame
 
 ### Question 3
 
